@@ -163,7 +163,7 @@ resources/
 ## 🎨 Screenshots
 
 ### Halaman Home
-![Home](https://freeimage.host/i/fteEZ3Q)
+![Home]([https://freeimage.host/i/fteEZ3Q](https://github.com/RanZx999/AllimageE/blob/main/Screenshot%202026-02-04%20142744.png))
 
 ### Daftar Siswa
 ![Siswa](screenshots/siswa.png)
