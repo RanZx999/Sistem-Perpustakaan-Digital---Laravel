@@ -1,4 +1,4 @@
-# 📚 Sistem Perpustakaan Digital
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/910b1034-daff-40a2-8003-f569971d63a8" /># 📚 Sistem Perpustakaan Digital
 
 Sistem manajemen perpustakaan berbasis web menggunakan Laravel 11 dengan Eloquent ORM dan Blade Template.
 
@@ -163,7 +163,7 @@ resources/
 ## 🎨 Screenshots
 
 ### Halaman Home
-![Home]([https://freeimage.host/i/fteEZ3Q](https://github.com/RanZx999/AllimageE/blob/main/Screenshot%202026-02-04%20142744.png))
+![Home](https://raw.githubusercontent.com/RanZx999/AllimageE/refs/heads/main/Screenshot%202026-02-04%20142744.png)
 
 ### Daftar Siswa
 ![Siswa](screenshots/siswa.png)
