@@ -169,7 +169,7 @@ resources/
 ![Siswa](https://raw.githubusercontent.com/RanZx999/AllimageE/refs/heads/main/images/Screenshot%202026-02-04%20150649.png)
 
 ### Form Peminjaman
-![Pinjam](screenshots/pinjam.png)
+![Pinjam](https://raw.githubusercontent.com/RanZx999/AllimageE/refs/heads/main/images/Screenshot%202026-02-04%20150900.png)
 
 ### Database Structure
 ![Database](screenshots/database.png)
