@@ -172,7 +172,7 @@ resources/
 ![Pinjam](https://raw.githubusercontent.com/RanZx999/AllimageE/refs/heads/main/images/Screenshot%202026-02-04%20150900.png)
 
 ### Database Structure
-![Database](screenshots/database.png)
+![Database](https://raw.githubusercontent.com/RanZx999/AllimageE/refs/heads/main/images/Screenshot%202026-02-04%20151317.png)
 
 ## 🔧 Penggunaan
 
