@@ -166,7 +166,7 @@ resources/
 ![Home](https://raw.githubusercontent.com/RanZx999/AllimageE/refs/heads/main/Screenshot%202026-02-04%20142744.png)
 
 ### Daftar Siswa
-![Siswa](screenshots/siswa.png)
+![Siswa](https://raw.githubusercontent.com/RanZx999/AllimageE/refs/heads/main/images/Screenshot%202026-02-04%20150649.png)
 
 ### Form Peminjaman
 ![Pinjam](screenshots/pinjam.png)
