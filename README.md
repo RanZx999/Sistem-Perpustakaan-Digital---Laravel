@@ -163,7 +163,7 @@ resources/
 ## 🎨 Screenshots
 
 ### Halaman Home
-![Home]([screenshots/home.png](https://freeimage.host/i/fteEZ3Q))
+![Home](https://freeimage.host/i/fteEZ3Q)
 
 ### Daftar Siswa
 ![Siswa](screenshots/siswa.png)
