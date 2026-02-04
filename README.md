@@ -52,69 +52,6 @@ tbl_pinjam (id_pinjam, id_siswa, id_petugas, waktu_pinjam)
 tbl_pinjamdetail (id_pinjamdetail, id_pinjam, id_buku)
 ```
 
-## 🚀 Cara Instalasi
-
-### Prerequisites
-- PHP >= 8.2
-- Composer
-- MySQL
-- Node.js & NPM
-
-### Langkah Instalasi
-
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/username/sistem-perpustakaan.git
-   cd sistem-perpustakaan
-   ```
-
-2. **Install dependencies**
-   ```bash
-   composer install
-   npm install
-   ```
-
-3. **Setup environment**
-   ```bash
-   cp .env.example .env
-   php artisan key:generate
-   ```
-
-4. **Konfigurasi database** di file `.env`
-   ```
-   DB_CONNECTION=mysql
-   DB_HOST=127.0.0.1
-   DB_PORT=3306
-   DB_DATABASE=perpustakaan
-   DB_USERNAME=root
-   DB_PASSWORD=
-   ```
-
-5. **Jalankan migration**
-   ```bash
-   php artisan migrate
-   ```
-
-6. **Jalankan seeder** (opsional - untuk data dummy)
-   ```bash
-   php artisan db:seed
-   ```
-
-7. **Compile assets**
-   ```bash
-   npm run dev
-   ```
-
-8. **Jalankan server**
-   ```bash
-   php artisan serve
-   ```
-
-9. **Buka browser**
-   ```
-   http://localhost:8000
-   ```
-
 ## 📂 Struktur Folder
 
 ```
@@ -138,7 +75,7 @@ app/
 
 database/
 ├── migrations/
-│   └── xxxx_create_complete_library_tables.php
+│   └── 2026_01_28_051753_perpus.php
 └── seeders/
     ├── SiswaSeeder.php
     ├── PetugasSeeder.php
@@ -252,10 +189,9 @@ GET  /pinjam/hapus/{id}   // Return (kembalikan buku)
 
 ## 👨‍💻 Author
 
-**[NAMA KAMU]**
-- NIS/NIM: [NIS/NIM KAMU]
-- Kelas: [KELAS KAMU]
-- Email: [EMAIL KAMU]
+**[Mahatma Arangga]**
+- Kelas: [XI RPL C]
+- Email: [Ranggavuck@gmail.com]
 
 ## 📄 License
 
